@@ -7,7 +7,7 @@ package:
     qt5integration
 
 base:
-  id: org.deepin.base/20.5.0
+  id: org.deepin.base/23.0.0
 
 variables:
   extra_args: |

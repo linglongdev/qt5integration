@@ -18,7 +18,7 @@ depends:
 - id: qttools/5.11.3
 - id: qtx11extras/5.11.3
 - id: qtsvg/5.11.3
-- id: qtxdg/3.3.1.1
+- id: libqtxdg/3.3.1.1
 - id: qtmultimedia/5.11.3
 - id: gsettings-qt/0.2
 - id: dtkcommon/5.5.3
